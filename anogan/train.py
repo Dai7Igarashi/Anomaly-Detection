@@ -2,6 +2,9 @@
 
 """AnoGAN example
 using: metal_nut data
+
+次元圧縮：t-SNE
+評価指標：IOU(Intersection over Union)
 """
 
 import argparse
