@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 
 * [Related Works](#related-works)
 * [Ex1. AnoGAN](#)
-* [Ex2. AnoVAEGAN](#)
+* [Ex2. AutoEncoder](#)
 
 ## Related Works
 
@@ -23,6 +23,8 @@ $ pip install -r requirements.txt
 #### Paper
 
 * Unsupervised anomaly detection with generative adversarial networks to guide marker discovery | Schlegl, Thomas, et al | **[IPMI 2017]** | <a href="https://arxiv.org/pdf/1703.05921.pdf" rel="nofollow"><code>[pdf]</code></a>
+
+* Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders | Bergmann, Paul, et al | **[arXiv 2018]** | <a href="https://arxiv.org/pdf/1807.02011.pdf" rel="nofollow"><code>[pdf]</code></a>
 
 * Deep autoencoding models for unsupervised anomaly segmentation in brain mr images | Baur, Christoph, et al | **[MICCAI 2018]** | <a href="https://arxiv.org/pdf/1804.04488.pdf" rel="nofollow"><code>[pdf]</code></a>
 
