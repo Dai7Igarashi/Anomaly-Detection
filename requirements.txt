@@ -1,6 +1,6 @@
 alembic==1.0.10
 attrs==19.1.0
-certifi==2019.3.9
+certifi==2022.12.7
 chainer==5.4.0
 cliff==2.14.1
 cmd2==0.9.12
